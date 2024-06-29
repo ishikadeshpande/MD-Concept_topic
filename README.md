@@ -24,15 +24,12 @@ Key benefits of the profile option are:
 
 ### Features
 The following features are available in the Profile option:
-- [Managing Profile](#managing-profile)
-  - [Benefits](#benefits)
-    - [Features](#features)
-    - [My Profile](#my-profile)
-    - [Leaderboard](#leaderboard)
-    - [Coins Ledger](#coins-ledger)
-    - [Members](#members)
-    - [Invite People](#invite-people)
-    - [Sign Out](#sign-out)
+- My Profile
+- Leaderboard
+- Coins Ledger
+- Members
+- Invite People
+- Sign Out
 				
 ### My Profile
 **My Profile** displays your details that you filled in about yourself such as name, location, and the number of earned coins. 
