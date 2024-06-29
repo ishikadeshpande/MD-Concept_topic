@@ -1,6 +1,17 @@
 # Managing Profile 
+- [Managing Profile](#managing-profile)
+  - [Benefits](#benefits)
+  - [Features](#features)
+  - [My Profile](#my-profile)
+  - [Leaderboard](#leaderboard)
+  - [Coins Ledger](#coins-ledger)
+  - [Members](#members)
+  - [Invite People](#invite-people)
+  - [Sign Out](#sign-out)
 
 You can add, delete, and update personal information in the **Profile option**. Track your activities, check the leaderboard scores and your earned coins using the **Profile** option. You can access this option by tapping **Profile** in the menu at the bottom of the page. 
+
+
 ## Benefits
 
 Key benefits of the profile option are:
