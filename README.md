@@ -33,7 +33,7 @@ You can view the top three members with the maximum number of coins earned based
 
 You can further tap the member’s name or icon to check the member’s profile.   
 
-!
+![leaderboard](leaderboard.jpeg)
 
 ## Coins Ledger
 Coins Ledger displays your earned number of coins and detailed transactions of how and when you earned or spent them. 
